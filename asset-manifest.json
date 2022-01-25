@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple_Linear_Regression_Reactjs/static/css/main.df581b3e.css",
+    "main.js": "/Simple_Linear_Regression_Reactjs/static/js/main.65e6bf4b.js",
+    "index.html": "/Simple_Linear_Regression_Reactjs/index.html",
+    "main.df581b3e.css.map": "/Simple_Linear_Regression_Reactjs/static/css/main.df581b3e.css.map",
+    "main.65e6bf4b.js.map": "/Simple_Linear_Regression_Reactjs/static/js/main.65e6bf4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df581b3e.css",
+    "static/js/main.65e6bf4b.js"
+  ]
+}
